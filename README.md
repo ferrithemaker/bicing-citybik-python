@@ -1,6 +1,6 @@
 # bicing-citybik-python
 
-scripts to get real-time Bicing information (Barcelona shared bike service)
+Set of scripts to get real-time Bicing information (Barcelona shared bike service)
 
 ## bicing.py :
 
